@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-svg-charts",
+        "License": "MIT License",
+        "License File": "https://github.com/JesperLekland/react-native-svg-charts/blob/dev/LICENSE",
+        "Version Number": "5.3.0",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/JesperLekland/react-native-svg-charts",
+        "Description": "Customizable charts (Line, Bar, Area, Pie, Circle, Progress) for React Native"
+    }
+]
